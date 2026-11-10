@@ -72,7 +72,7 @@ Where $1$ to $8$ correspond to **Groups A, B, C, D, E, F, G, and H**.
 3. **Television / Calendar Pairing (Red vs. Blue Groups)**:
    Groups 1–4 (A–D, "Red") play on one matchday (e.g. Tuesday), while Groups 5–8 (E–H, "Blue") play on the other matchday (Wednesday).
    Clubs paired for domestic broadcasting from the same nation (e.g., Real Madrid & Barcelona, Man City & Liverpool, Bayern & Dortmund) cannot be placed in the same color group set:
-   $$\text{Half}(\text{Group}(u)) \ne \text{Half}(\text{Group}(v)) \quad \forall (u, v) \in \text{TV\_Pairs}$$
+   $$\text{Half}(\text{Group}(u)) \ne \text{Half}(\text{Group}(v)) \quad \forall (u, v) \in \text{TV-Pairs}$$
 
 ---
 
