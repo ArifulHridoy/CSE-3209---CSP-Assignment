@@ -1,0 +1,9 @@
+Yes
+Real Madrid,Borussia Dortmund,AC Milan,Monaco
+Girona,Liverpool,Sporting CP,Club Brugge
+Juventus,Paris Saint-Germain,Feyenoord,Celtic
+Arsenal,Bayer Leverkusen,Shakhtar Donetsk,Galatasaray
+Barcelona,RB Leipzig,Manchester City,Red Star Belgrade
+Atletico Madrid,Inter Milan,Chelsea,Red Bull Salzburg
+Atalanta,PSV Eindhoven,Dinamo Zagreb,Young Boys
+Benfica,Bayern Munich,Lille,Sparta Prague

@@ -1,0 +1,22 @@
+8
+4
+Real Madrid,Manchester City,Bayern Munich,Paris Saint-Germain,Inter Milan,Bayer Leverkusen,Sporting CP,PSV Eindhoven
+Liverpool,Arsenal,Barcelona,Atletico Madrid,Borussia Dortmund,Juventus,Atalanta,Benfica
+RB Leipzig,AC Milan,Feyenoord,Club Brugge,Shakhtar Donetsk,Red Bull Salzburg,Dinamo Zagreb,Lille
+Chelsea,Girona,Monaco,Celtic,Galatasaray,Red Star Belgrade,Young Boys,Sparta Prague
+ENG:Manchester City,Liverpool,Arsenal,Chelsea
+ESP:Real Madrid,Barcelona,Atletico Madrid,Girona
+GER:Bayern Munich,Bayer Leverkusen,Borussia Dortmund,RB Leipzig
+ITA:Inter Milan,Juventus,Atalanta,AC Milan
+FRA:Paris Saint-Germain,Lille,Monaco
+POR:Sporting CP,Benfica
+NED:PSV Eindhoven,Feyenoord
+BEL:Club Brugge
+UKR:Shakhtar Donetsk
+AUT:Red Bull Salzburg
+CRO:Dinamo Zagreb
+SCO:Celtic
+TUR:Galatasaray
+SRB:Red Star Belgrade
+SUI:Young Boys
+CZE:Sparta Prague
